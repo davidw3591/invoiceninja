@@ -2094,12 +2094,13 @@ Kom terug naar deze betalingsmethode pagina zodra u de bedragen heeft ontvangen 
 
     'day' => 'Day',
     'week' => 'Week',
-    'month' => 'Month',
+    'month' => 'Maand',
     'inactive_logout' => 'You have been logged out due to inactivity',
     'reports' => 'Reports',
     'total_profit' => 'Total Profit',
     'total_expenses' => 'Total Expenses',
-    'quote_to' => 'Quote to',
+    'quote_to' => 'Offerte aan',
+    'country_België' => 'België',
 
 );
 
